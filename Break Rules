@@ -1,0 +1,92 @@
+<!DOCTYPE html><html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Break Rules - Malavida Roleplay</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      margin: 20px;
+      padding: 20px;
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      color: #c0392b;
+    }
+    ol {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    p {
+      margin-top: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Break Rules (BR) - Malavida Roleplay</h1>
+  <p><strong>Break Rules (BR)</strong> adalah perlakuan yang melanggar suatu aturan yang berada pada server, dan player yang melanggar tersebut tentunya akan mendapatkan hukuman sesuai dengan yang dilanggar nya.</p>
+  <p>Dibawah ini adalah contoh-contoh Break Rules:</p>
+  <ol>
+    <li><strong>PowerGaming (PG):</strong> Melakukan suatu hal yang mustahil untuk dilakukan di dunia nyata.</li>
+    <li><strong>MetaGaming (MG):</strong> Menggunakan informasi OOC untuk kepentingan IC.</li>
+    <li><strong>Evading/Refuse RP:</strong> Menghindari/mengabaikan ajakan roleplay.</li>
+    <li><strong>Logging To Avoid:</strong> Keluar dari game untuk menghindari RP.</li>
+    <li><strong>Olympic Swimming:</strong> Menceburkan diri ke air untuk menghindari RP.</li>
+    <li><strong>Insult OOC:</strong> Menghina player lain di chat OOC.</li>
+    <li><strong>Retard:</strong> Menghambat jalannya Roleplay.</li>
+    <li><strong>Deathmatch:</strong> Membunuh player lain tanpa alasan RP jelas.</li>
+    <li><strong>Chicken Running:</strong> Lari zig-zag untuk menghindari tembakan.</li>
+    <li><strong>Server Advertisement:</strong> Promosi server lain di dalam server.</li>
+    <li><strong>Car Ramming:</strong> Menabrak player lain tanpa alasan RP.</li>
+    <li><strong>Ninja Jacking:</strong> Mencuri kendaraan tanpa RP yang tepat.</li>
+    <li><strong>Drive-by:</strong> Menembak dari kendaraan tanpa RP jelas.</li>
+    <li><strong>Fail IC Chat:</strong> Penggunaan /me /do yang tidak sesuai.</li>
+    <li><strong>Tapping:</strong> Memajukan analog untuk mempercepat motor.</li>
+    <li><strong>Non RP Fear:</strong> Tidak takut saat RP menegangkan.</li>
+    <li><strong>Spawn Killing:</strong> Membunuh player saat baru login.</li>
+    <li><strong>Bunny Hopping:</strong> Melompat-lompat untuk lari lebih cepat.</li>
+    <li><strong>Bike Hopping:</strong> Lompat dengan sepeda untuk ngebut.</li>
+    <li><strong>Ramboing:</strong> Membawa peluru berlebihan.</li>
+    <li><strong>Force RP:</strong> Memaksakan RP tanpa kesempatan respon.</li>
+    <li><strong>Account Sharing:</strong> Memberikan akun ke orang lain.</li>
+    <li><strong>Real Trading Money:</strong> Jual beli item IC dengan uang asli.</li>
+    <li><strong>Abuse Static Vehicle:</strong> Salahgunakan kendaraan kerja.</li>
+    <li><strong>Cheater:</strong> Gunakan program ilegal.</li>
+    <li><strong>Non RP Driving:</strong> Mengemudi tidak sesuai RP.</li>
+    <li><strong>Heliblading:</strong> Bunuh pakai baling helikopter.</li>
+    <li><strong>Car Surfing:</strong> Berdiri di atas mobil tanpa RP.</li>
+    <li><strong>Non RP Behaviour:</strong> Lakukan hal yang tak masuk akal.</li>
+    <li><strong>Provoke Leo:</strong> Pancing aparat tanpa alasan.</li>
+    <li><strong>Money Farming:</strong> Transfer uang antar akun.</li>
+    <li><strong>Money Machine:</strong> Kerja terus tanpa RP.</li>
+    <li><strong>Non RP Advertisement:</strong> Iklan tidak sesuai aturan.</li>
+    <li><strong>Happy Triggering:</strong> Tembak sembarangan tanpa alasan.</li>
+    <li><strong>Trolling:</strong> RP untuk menjebak/menipu.</li>
+    <li><strong>Non RP Crash:</strong> Tidak RP setelah nabrak.</li>
+    <li><strong>OOC Lie:</strong> Bohongi admin atau player.</li>
+    <li><strong>Quick Scroll:</strong> Ganti senjata tanpa RP.</li>
+    <li><strong>Refill at War:</strong> Heal saat war berlangsung.</li>
+    <li><strong>Ban Evading:</strong> Masuk pakai akun lain saat diban.</li>
+    <li><strong>Sexual RP Tanpa Izin:</strong> RP seksual tanpa izin OOC.</li>
+    <li><strong>Exploiting Bug:</strong> Manfaatkan bug untuk keuntungan.</li>
+    <li><strong>Non RP Name:</strong> Nama tidak realistis.</li>
+    <li><strong>Car Jacking:</strong> Curi mobil saat pemilik masih di dalam tanpa RP.</li>
+    <li><strong>Shameless RP:</strong> RP tidak tahu malu (misal abuse /dick di publik).</li>
+    <li><strong>Abuse Commands:</strong> Gunakan command untuk merugikan.</li>
+    <li><strong>Revenge Kill:</strong> Balas dendam setelah koma sebelum 30 menit.</li>
+    <li><strong>Fail Landing:</strong> Mendaratkan heli di tempat tidak wajar.</li>
+    <li><strong>Abuse Faction Call:</strong> Menelepon fraksi untuk main-main.</li>
+    <li><strong>Killing On Sight:</strong> Membunuh dari jarak jauh tanpa RP.</li>
+    <li><strong>Team Killing:</strong> Bunuh anggota sendiri tanpa alasan.</li>
+    <li><strong>Secret Deathmatch:</strong> Bunuh setelah korban kasih barang saat begal.</li>
+  </ol>
+</body>
+</html>
